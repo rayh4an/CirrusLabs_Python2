@@ -1,0 +1,15 @@
+Grade Report for Patches Last
+Student Email: patches@gmail.com
+
+-----------------------------------
+Grades: - Calculus: 67
+- English Composition I: 88
+- Physics I: 72
+- US History: 64
+- Principals of Computer Science I: 80
+- Psychology I: 75
+-----------------------------------
+
+Grade Score: 74.33
+Final Grade: C
+GPA: 2.00

@@ -1,0 +1,15 @@
+Grade Report for Heather Star
+Student Email: heather@gmail.com
+
+-----------------------------------
+Grades: - Calculus: 94
+- English Composition I: 95
+- Physics I: 82
+- US History: 99
+- Principals of Computer Science I: 87
+- Psychology I: 91
+-----------------------------------
+
+Grade Score: 91.33
+Final Grade: A
+GPA: 3.67

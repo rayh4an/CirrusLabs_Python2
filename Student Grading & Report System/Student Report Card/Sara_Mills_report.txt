@@ -1,0 +1,15 @@
+Grade Report for Sara Mills
+Student Email: sara@gmail.com
+
+-----------------------------------
+Grades: - Calculus: 77
+- English Composition I: 92
+- Physics I: 89
+- US History: 97
+- Principals of Computer Science I: 93
+- Psychology I: 99
+-----------------------------------
+
+Grade Score: 91.17
+Final Grade: A
+GPA: 3.50

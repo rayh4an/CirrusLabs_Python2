@@ -1,0 +1,15 @@
+Grade Report for John Smith
+Student Email: john@gmail.com
+
+-----------------------------------
+Grades: - Calculus: 82
+- English Composition I: 88
+- Physics I: 79
+- US History: 94
+- Principals of Computer Science I: 86
+- Psychology I: 97
+-----------------------------------
+
+Grade Score: 87.67
+Final Grade: B
+GPA: 3.17
